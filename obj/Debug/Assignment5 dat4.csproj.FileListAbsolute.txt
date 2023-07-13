@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\Assignment5 dat4\Assignment5 dat4\bin\Debug\Assignment5 dat4.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\Assignment5 dat4\Assignment5 dat4\bin\Debug\Assignment5 dat4.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\Assignment5 dat4\Assignment5 dat4\bin\Debug\Assignment5 dat4.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\Assignment5 dat4\Assignment5 dat4\obj\Debug\Assignment5 dat4.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\Assignment5 dat4\Assignment5 dat4\obj\Debug\Assignment5 dat4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\Assignment5 dat4\Assignment5 dat4\obj\Debug\Assignment5 dat4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\Assignment5 dat4\Assignment5 dat4\obj\Debug\Assignment5 dat4.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-4\Assignment5 dat4\Assignment5 dat4\obj\Debug\Assignment5 dat4.pdb
